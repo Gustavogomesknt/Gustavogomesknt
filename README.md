@@ -1,6 +1,5 @@
-- 👋 ola, eu sou @Gustavogomesknt
-- trabalho atualmente na empresa Karmony consultoria
-- estudando Javascript 
+- 👋 ola, meu nome é Gustavo.
+- estudando javascript. 
 
 
 <div align="center">
