@@ -1,5 +1,6 @@
 - 👋 ola, meu nome é Gustavo.
-- estudando javascript. 
+- estudando javascript.
+- Em busca da primeira oportunidade!!
 
 
 <div align="center">
