@@ -1,4 +1,4 @@
-- 👋 ola, meu nome é Gustavo.
+- 👋 Olá, meu nome é Gustavo.
 - estudando javascript.
 - Em busca da primeira oportunidade!!
 
