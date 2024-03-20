@@ -1,5 +1,6 @@
 - 👋 Olá, meu nome é Gustavo.
 - estudando javascript.
+- Estudante de ADS na faculdade nove de julho.
 - Em busca da primeira oportunidade!
 
 
