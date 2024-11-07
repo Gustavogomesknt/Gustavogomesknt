@@ -121,7 +121,7 @@ Me chamo Gustavo, tenho 19 anos.  Atualmente, estou cursando Análise e Desenvol
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img 
     alt="GitHub Stats" 
-    height="190" 
+    height="170" 
     style="margin-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=gustavogomesknt&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
