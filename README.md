@@ -37,7 +37,7 @@ Me chamo Gustavo, tenho 19 anos.  Atualmente, estou cursando Análise e Desenvol
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### </> Linguagens e Tecnologias
 
 <img 
     align="left" 
