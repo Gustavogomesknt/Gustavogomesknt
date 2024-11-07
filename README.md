@@ -26,7 +26,7 @@ Me chamo Gustavo, tenho 19 anos.  Atualmente, estou cursando Análise e Desenvol
             src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers](https://api.whatsapp.com/send?phone=5511967642416">
+    <a href="https://api.whatsapp.com/send?phone=5511967642416">
         <img 
             alt="Whatsapp" 
             title="Whatsapp" 
