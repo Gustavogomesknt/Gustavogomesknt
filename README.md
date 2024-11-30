@@ -1,4 +1,4 @@
-# 🤖 Gustavo Gome
+# 🤖 Gustavo Gomes
 
 **`Desenvolvedor Front-End`**
 
