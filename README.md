@@ -1,6 +1,6 @@
 # 🤖 Gustavo Gomes
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor Front-End`*
 
 Me chamo Gustavo, tenho 19 anos.  Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Nove de Julho. Sou estudante de programação e desenvolvedor front-end apaixonado por tecnologia. Aqui no meu GitHub, você vai encontrar projetos que exploram minhas habilidades em HTML, CSS, JavaScript e frameworks como React e Vue.js. Adoro criar interfaces interativas e responsivas, sempre focando em uma experiência de usuário simples e eficiente.
 
